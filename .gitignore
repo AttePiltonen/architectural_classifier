@@ -1,5 +1,5 @@
 ./arcDataset
-./architectural-styles-dataset
+#./architectural-styles-dataset
 .ipynb_checkpoints
 rgb_dataset
 rgb-dataset
